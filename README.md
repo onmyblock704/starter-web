@@ -5,7 +5,7 @@
 This is a simple website project for showing how Git and GitHub work
 
 This example is to show different parts of Git repository and various commands using a web project. 
-Adding a line for rebasing example.
+Adding a line for rebasing example, then more changes from myfeature branch too.
 
 ## Purpose
 
